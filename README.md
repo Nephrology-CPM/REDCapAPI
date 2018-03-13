@@ -29,7 +29,7 @@ R script will request all of a project's data and save as a .csv file. A valid A
     $ Rscript path/to/this/script/downloadAll.R
     ```
 
-+ ** Let Rstudio install requirements**
++ **Let Rstudio install requirements**
 
   For use with a [standard install of Rstudio](https://www.rstudio.com/products/rstudio/download/).
 
@@ -50,7 +50,7 @@ R script will request all of a project's data and save as a .csv file. A valid A
   ```R
   > source(downloadAll.R)
   ```
-+ ** Conda users - Create an environment to handle requirements**
++ **Conda users - Create an environment to handle requirements**
 
   For use with a [standard install of anaconda](https://docs.anaconda.com/anaconda/install/).
 
@@ -97,4 +97,4 @@ R script will request all of a project's data and save as a .csv file. A valid A
   $ source deactivate REDCapAPI
   ```
 
-## [downloadAll.py](downloadAll.py) - (** Comming soon!**)
+## [downloadAll.py](downloadAll.py) - (**Comming soon!**)
